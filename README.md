@@ -38,6 +38,6 @@ How to run the file?
 
 3. Now run the whole file and download the final House_market_Dynamics.csv file.
 
-4. Next, download and run dashboard.py file after uploading the above House_market_Dynamics.csv file.
+4. Next, download and run Dashboard.py file after uploading the above House_market_Dynamics.csv file.
 
 5. Finally, Click and follow the http link.
